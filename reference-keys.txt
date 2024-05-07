@@ -1,0 +1,12 @@
+propuesta-para-realizar-el-pronóstico-de-contaminantes-del-aire-pm2.5-y-co
+documento-bookdown---propuesta-avance-2
+actividad-1
+actividad-1-propuesta-para-realizar-el-pronóstico-de-contaminantes-del-aire-pm2.5-y-co
+actividad-2---propuesta-avance-2
+actividad-3-literatura
+actividad-3-propuesta-avance-3
+el-comando-ndiffs-te-dice-cuantas-diferencias-requieres-para-convertir-a-estacionaria-en-este-caso-arroja-1-sola-diferencia-se-realiza-transformación-para-convertir-a-serie-estacionaria.
+realizar-ajuste-de-diferenciación-en-este-caso-nos-arroja-cero-como-respuesta.
+análisis-de-serie-estacionaria-y-no-estacionaria
+ndiffsdatos.ts
+el-comando-ndiffs-te-dice-cuantas-diferencias-requieres-para-convertir-a-estacionaria-en-este-caso-arroja-1-sola-diferencia-se-realiza-transformación-para-convertir-a-serie-estacionaria-ndiffs.
