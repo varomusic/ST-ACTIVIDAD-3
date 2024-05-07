@@ -10,3 +10,4 @@ realizar-ajuste-de-diferenciación-en-este-caso-nos-arroja-cero-como-respuesta.
 análisis-de-serie-estacionaria-y-no-estacionaria
 ndiffsdatos.ts
 el-comando-ndiffs-te-dice-cuantas-diferencias-requieres-para-convertir-a-estacionaria-en-este-caso-arroja-1-sola-diferencia-se-realiza-transformación-para-convertir-a-serie-estacionaria-ndiffs.
+revisar-estacionariedad
